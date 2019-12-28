@@ -1,5 +1,6 @@
 # sync github remote codebase
 $ git fetch origin master
+
 $ git merge origin/master
 
 # Python_Head_First
