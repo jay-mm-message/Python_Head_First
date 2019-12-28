@@ -1,3 +1,9 @@
+# python online libary document
+https://docs.python.org/3/library/index.html
+
+# python community
+https://pypi.org/
+
 # sync github remote codebase
 $ git fetch origin master
 
