@@ -8,4 +8,3 @@ print("Current system: ", current_system)
 print("System version: ", sys.version)
 #print("os environ: ", os.environ)
 print("os getenv('HOME'): ", os.getenv('HOME'))
-
