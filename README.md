@@ -1,5 +1,8 @@
-# Python_Head_First
+# sync github remote codebase
+$ git fetch origin master
+$ git merge origin/master
 
+# Python_Head_First
 # Initialized empty Git repository in /private/tmp/practice-git/.git/
 $ git init
 
@@ -15,5 +18,3 @@ $ git remote add origin https://github.com/jay-mm-message/Python_Head_First.git
 
 # Push code
 $ git push -u origin master
-
-
