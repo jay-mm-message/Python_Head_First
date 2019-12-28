@@ -1,6 +1,4 @@
 # Python_Head_First
-test
-# Git push flow
 
 # Initialized empty Git repository in /private/tmp/practice-git/.git/
 $ git init
