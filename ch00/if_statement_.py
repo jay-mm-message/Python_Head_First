@@ -13,5 +13,3 @@ if right_this_minue in odds:
     print("right_this_minue : ", right_this_minue, ", 值有存在 odds ( 1 ~ 60 ) 基數串列內.")
 else:
     print("right_this_minue : ", right_this_minue, ", 值有不存在 odds ( 1 ~ 60 ) 基數串列內.")
-
-print()
