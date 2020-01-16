@@ -20,5 +20,5 @@ for letter in word:
         found.setdefault(letter, 0)
         found[letter] += 1
 
-for key, value in found.items():
+for key, value in sorted(found.items()):
     print('The key: ', key, 'was found', value, 'time(s).')
